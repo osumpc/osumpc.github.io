@@ -1,0 +1,7 @@
+<feeds title="Top Stories">
+<feed url="http://www.gameinformer.com/feeds/thefeedrss.aspx" name="Game Informer: Main Feed" file="gameinformer.html"/>
+<feed url="http://www.gameinformer.com/b/mainfeed.aspx?Tags=preview" name="Game Informer Previews" file="gameinformerpreviews.html"/>
+<feed url="http://www.gameinformer.com/b/mainfeed.aspx?Tags=review" name="Game Informer Reviews" file="gameinformerreviews.html"/>
+<feed url="http://www.gameinformer.com/b/mainfeed.aspx?Tags=feature" name="Game Informer Features" file="gameinformerfeatures"/>
+<feed url="http://www.gameinformer.com/b/podcasts/rss.aspx?Tags=gameinformershow" name="The Game Informer Shows" file="gameinformershow.html"/>
+</feeds>
